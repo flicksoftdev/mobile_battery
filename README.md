@@ -1,6 +1,10 @@
 # MOBILE BATTERY DESIGN
 
-It's a simple mobile battery ui compoent.
+It's a simple mobile battery ui component.
+We can see the following things in this UI component:
+Battery Level: We can see the battery percentage on this.
+
+
 
 # PREVIEW 
 
